@@ -1,0 +1,4 @@
+../Core/Src/SHA1.c:77:5:SHA1_Init	2
+../Core/Src/SHA1.c:95:13:SHA1_ProcessBlock	9
+../Core/Src/SHA1.c:139:5:SHA1_Final	4
+../Core/Src/SHA1.c:173:5:SHA1_Update	4

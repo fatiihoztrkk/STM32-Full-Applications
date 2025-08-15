@@ -1,0 +1,4 @@
+../Core/Src/SHA1.c:77:5:SHA1_Init	24	static
+../Core/Src/SHA1.c:95:13:SHA1_ProcessBlock	48	static
+../Core/Src/SHA1.c:139:5:SHA1_Final	40	static
+../Core/Src/SHA1.c:173:5:SHA1_Update	32	static
